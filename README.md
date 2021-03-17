@@ -1,4 +1,4 @@
-# SQLFlow在Zeppelin中的部署说明
+# SQLFlow插件在Zeppelin中的部署说明
 ## 1.  项目简介
 通过将蚂蚁金服开源机器学习工具[SQLFlow](http://sqlflow.org/sqlflow)，集成至基于Web的notebook工具[Apache Zeppelin](http://zeppelin.apache.org/)，从而拓展Zeppelin支持的解释器语言。
 ## 2.  环境依赖
@@ -61,6 +61,7 @@ Athena机器学习平台是交通银行太平洋信用卡中心开发的一款�
 - 监控模型训练，模型预测的运行状态，评估模型运行效率，快速验证效果。
 
 以下为Athena机器学习平台部分功能界面展示图：
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210316163223683.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3p5NDgyODkxOA==,size_16,color_FFFFFF,t_70)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210316163223634.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3p5NDgyODkxOA==,size_16,color_FFFFFF,t_70)
