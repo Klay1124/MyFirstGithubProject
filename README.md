@@ -27,6 +27,7 @@ cd ~/zeppelin-0.9.0-SNAPSHOT/bin/
 进入zeppelin首页，点击右上角的用户，选择interpreter后，进入解释器的参数配置页面。
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210315171233284.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3p5NDgyODkxOA==,size_16,color_FFFFFF,t_70#pic_center)
+
 填写5个配置参数，分别是：
 - sqlflow.serverAddr：sqlflow服务器地址
 - mysql.username：数据库登录用户名
@@ -35,9 +36,11 @@ cd ~/zeppelin-0.9.0-SNAPSHOT/bin/
 - mysql.databaseName：数据库名称
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210316103230953.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3p5NDgyODkxOA==,size_16,color_FFFFFF,t_70#pic_center)
+
 回到首页，创建一个新的 note，选择默认解释器为 `sqlflow`，如下图所示：
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210315181859518.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3p5NDgyODkxOA==,size_16,color_FFFFFF,t_70#pic_center)
+
 ![\[外链图片转存失败,源站可能有防盗链机制,建议将图片保存下来直接上传(img-J5Wp2lpU-1615798656458)(C:/Users/Administrator/Desktop/Create_New_Note.jpg)\]](https://img-blog.csdnimg.cn/20210315165757865.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3p5NDgyODkxOA==,size_16,color_FFFFFF,t_70#pic_center)
 
 在打开的笔记本中，开始使用sqflow语法，然后运行，进行功能测试。
@@ -58,4 +61,6 @@ Athena机器学习平台是交通银行太平洋信用卡中心开发的一款�
 - 监控模型训练，模型预测的运行状态，评估模型运行效率，快速验证效果。
 
 以下为Athena机器学习平台部分功能界面展示图：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20210316163223683.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3p5NDgyODkxOA==,size_16,color_FFFFFF,t_70)![在这里插入图片描述](https://img-blog.csdnimg.cn/20210316163223634.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3p5NDgyODkxOA==,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210316163223683.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3p5NDgyODkxOA==,size_16,color_FFFFFF,t_70)
+
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210316163223634.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3p5NDgyODkxOA==,size_16,color_FFFFFF,t_70)
