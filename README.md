@@ -46,7 +46,7 @@ cd ~/zeppelin-0.9.0-SNAPSHOT/bin/
 在打开的笔记本中，开始使用sqflow语法，然后运行，进行功能测试。
 下图所示案例中，在 [iris 数据集](https://en.wikipedia.org/wiki/Iris_flower_data_set) 上训练 `DNNClassifier` 分类器，利用训练好的 `DNNClassifier` 对三种类别的鸢尾花进行预测。通过作图能更直观地展示每个特征字段对模型预测的影响程度。
 
-注：每个段落，必须以“%sqlflow”开头。
+注：每个段落，必须以`“%sqlflow”`开头。
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210316104837416.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3p5NDgyODkxOA==,size_16,color_FFFFFF,t_70#pic_center)
 ## 5.  团队简介
