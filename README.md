@@ -50,7 +50,6 @@ cd ~/zeppelin-0.9.0-SNAPSHOT/bin/
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210316104837416.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3p5NDgyODkxOA==,size_16,color_FFFFFF,t_70#pic_center)
 
-
 ## 5.  团队简介
 本项目由交通银行太平洋信用卡中心信息技术管理部基础平台开发团队发起，旨在加强Athena机器学习平台在数据探索及模型试验方面的功能拓展，为数据科学家提供更加全面、丰富的数据处理工具。通过与蚂蚁金服团队合作，共同编写此插件。最后，也对zeppelin平台开发人员表示鸣谢。
 
@@ -61,7 +60,6 @@ Athena机器学习平台是交通银行太平洋信用卡中心开发的一款�
 - 监控模型训练，模型预测的运行状态，评估模型运行效率，快速验证效果。
 
 以下为Athena机器学习平台部分功能界面展示图：
-
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210316163223683.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3p5NDgyODkxOA==,size_16,color_FFFFFF,t_70)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210316163223634.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3p5NDgyODkxOA==,size_16,color_FFFFFF,t_70)
